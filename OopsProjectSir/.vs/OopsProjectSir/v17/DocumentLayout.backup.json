@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|d:\\@2025\\nit\\csharp\\oopsprojectsir\\oopsprojectsir\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|solutionrelative:oopsprojectsir\\constructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|d:\\@2025\\nit\\csharp\\oopsprojectsir\\oopsprojectsir\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|solutionrelative:oopsprojectsir\\exception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|d:\\@2025\\nit\\csharp\\oopsprojectsir\\oopsprojectsir\\exceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|solutionrelative:oopsprojectsir\\exceptionhandle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|d:\\@2025\\nit\\csharp\\oopsprojectsir\\oopsprojectsir\\oopsprojectsir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{80B20DA0-FBEC-4A81-BBA9-B514C22582F5}|OopsProjectSir\\OopsProjectSir.csproj|solutionrelative:oopsprojectsir\\oopsprojectsir.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Constructor.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\Constructor.cs",
+              "RelativeDocumentMoniker": "OopsProjectSir\\Constructor.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\Constructor.cs",
+              "RelativeToolTip": "OopsProjectSir\\Constructor.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T19:04:16.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exception.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\Exception.cs",
+              "RelativeDocumentMoniker": "OopsProjectSir\\Exception.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\Exception.cs",
+              "RelativeToolTip": "OopsProjectSir\\Exception.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:10:37.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandle.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\ExceptionHandle.cs",
+              "RelativeDocumentMoniker": "OopsProjectSir\\ExceptionHandle.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\ExceptionHandle.cs",
+              "RelativeToolTip": "OopsProjectSir\\ExceptionHandle.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwCMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T10:06:29.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OopsProjectSir.csproj",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\OopsProjectSir.csproj",
+              "RelativeDocumentMoniker": "OopsProjectSir\\OopsProjectSir.csproj",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\OopsProjectSir\\OopsProjectSir\\OopsProjectSir.csproj",
+              "RelativeToolTip": "OopsProjectSir\\OopsProjectSir.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-12T09:52:37.613Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\bin\Debug\net8.0\ArrListPractice.exe
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\bin\Debug\net8.0\ArrListPractice.deps.json
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\bin\Debug\net8.0\ArrListPractice.runtimeconfig.json
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\bin\Debug\net8.0\ArrListPractice.dll
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\bin\Debug\net8.0\ArrListPractice.pdb
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.AssemblyInfoInputs.cache
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.AssemblyInfo.cs
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.csproj.CoreCompileInputs.cache
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.dll
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\refint\ArrListPractice.dll
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.pdb
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ArrListPractice.genruntimeconfig.cache
+D:\@2025\Nit\CSharp\ArrListPractice\ArrListPractice\obj\Debug\net8.0\ref\ArrListPractice.dll

@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\AllLogicalProgram\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A56D468-48B4-4465-A125-F1F94217F719}|AllLogicalProgram\\AllLogicalProgram.csproj|d:\\@2025\\nit\\csharp\\alllogicalprogram\\alllogicalprogram\\arrayfreqeuncyele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A56D468-48B4-4465-A125-F1F94217F719}|AllLogicalProgram\\AllLogicalProgram.csproj|solutionrelative:alllogicalprogram\\arrayfreqeuncyele.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A56D468-48B4-4465-A125-F1F94217F719}|AllLogicalProgram\\AllLogicalProgram.csproj|d:\\@2025\\nit\\csharp\\alllogicalprogram\\alllogicalprogram\\alllogicalprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5A56D468-48B4-4465-A125-F1F94217F719}|AllLogicalProgram\\AllLogicalProgram.csproj|solutionrelative:alllogicalprogram\\alllogicalprogram.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArrayFreqeuncyEle.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\AllLogicalProgram\\AllLogicalProgram\\ArrayFreqeuncyEle.cs",
+              "RelativeDocumentMoniker": "AllLogicalProgram\\ArrayFreqeuncyEle.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\AllLogicalProgram\\AllLogicalProgram\\ArrayFreqeuncyEle.cs",
+              "RelativeToolTip": "AllLogicalProgram\\ArrayFreqeuncyEle.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T10:17:40.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AllLogicalProgram.csproj",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\AllLogicalProgram\\AllLogicalProgram\\AllLogicalProgram.csproj",
+              "RelativeDocumentMoniker": "AllLogicalProgram\\AllLogicalProgram.csproj",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\AllLogicalProgram\\AllLogicalProgram\\AllLogicalProgram.csproj",
+              "RelativeToolTip": "AllLogicalProgram\\AllLogicalProgram.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-25T05:00:12.067Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

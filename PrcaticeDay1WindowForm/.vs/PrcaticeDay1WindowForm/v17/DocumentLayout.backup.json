@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|d:\\@2025\\nit\\csharp\\prcaticeday1windowform\\prcaticeday1windowform\\listboxplaceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\listboxplaceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|d:\\@2025\\nit\\csharp\\prcaticeday1windowform\\prcaticeday1windowform\\listboxplaceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\listboxplaceadd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|d:\\@2025\\nit\\csharp\\prcaticeday1windowform\\prcaticeday1windowform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|d:\\@2025\\nit\\csharp\\prcaticeday1windowform\\prcaticeday1windowform\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\prcaticeday1windowform\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\listbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|d:\\@2025\\nit\\csharp\\prcaticeday1windowform\\prcaticeday1windowform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4029E894-A92C-4BD2-AB34-7D46BECDAC06}|PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm.csproj|solutionrelative:prcaticeday1windowform\\registrationform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListBoxPlaceAdd.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADwAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T10:01:29.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListBoxPlaceAdd.cs [Design]",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs [Design]",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\ListBoxPlaceAdd.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-04T09:53:31.901Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\Program.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\Program.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\Program.cs",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:17:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistrationForm.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\RegistrationForm.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\RegistrationForm.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\RegistrationForm.cs",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\RegistrationForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAYwBMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T10:09:14.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListBox.cs [Design]",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBox.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\ListBox.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBox.cs [Design]",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\ListBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:59:35.496Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListBox.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBox.cs",
+              "RelativeDocumentMoniker": "PrcaticeDay1WindowForm\\ListBox.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\PrcaticeDay1WindowForm\\PrcaticeDay1WindowForm\\ListBox.cs",
+              "RelativeToolTip": "PrcaticeDay1WindowForm\\ListBox.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAmwAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-31T09:59:25.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\bin\Debug\net8.0\CsharpPractice.exe
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\bin\Debug\net8.0\CsharpPractice.deps.json
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\bin\Debug\net8.0\CsharpPractice.runtimeconfig.json
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\bin\Debug\net8.0\CsharpPractice.dll
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\bin\Debug\net8.0\CsharpPractice.pdb
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.GeneratedMSBuildEditorConfig.editorconfig
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.AssemblyInfoInputs.cache
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.AssemblyInfo.cs
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.csproj.CoreCompileInputs.cache
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.dll
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\refint\CsharpPractice.dll
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.pdb
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\CsharpPractice.genruntimeconfig.cache
+D:\@2025\Nit\CSharp\CsharpPractice\CsharpPractice\obj\Debug\net8.0\ref\CsharpPractice.dll

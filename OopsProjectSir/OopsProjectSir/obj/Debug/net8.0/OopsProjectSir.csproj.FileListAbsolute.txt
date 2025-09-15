@@ -1,0 +1,14 @@
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.GeneratedMSBuildEditorConfig.editorconfig
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.AssemblyInfoInputs.cache
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.AssemblyInfo.cs
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.csproj.CoreCompileInputs.cache
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\bin\Debug\net8.0\OopsProjectSir.exe
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\bin\Debug\net8.0\OopsProjectSir.deps.json
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\bin\Debug\net8.0\OopsProjectSir.runtimeconfig.json
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\bin\Debug\net8.0\OopsProjectSir.dll
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\bin\Debug\net8.0\OopsProjectSir.pdb
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.dll
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\refint\OopsProjectSir.dll
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.pdb
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\OopsProjectSir.genruntimeconfig.cache
+D:\@2025\Nit\CSharp\OopsProjectSir\OopsProjectSir\obj\Debug\net8.0\ref\OopsProjectSir.dll

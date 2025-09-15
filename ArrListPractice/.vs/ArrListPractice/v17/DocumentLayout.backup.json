@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|d:\\@2025\\nit\\csharp\\arrlistpractice\\arrlistpractice\\removeallevenno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|solutionrelative:arrlistpractice\\removeallevenno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|d:\\@2025\\nit\\csharp\\arrlistpractice\\arrlistpractice\\arrlistpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|solutionrelative:arrlistpractice\\arrlistpractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|d:\\@2025\\nit\\csharp\\arrlistpractice\\arrlistpractice\\mergelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|solutionrelative:arrlistpractice\\mergelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|d:\\@2025\\nit\\csharp\\arrlistpractice\\arrlistpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{998CB437-60EE-4EB4-BC55-175589F0C1F8}|ArrListPractice\\ArrListPractice.csproj|solutionrelative:arrlistpractice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RemoveAllEvenNo.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\RemoveAllEvenNo.cs",
+              "RelativeDocumentMoniker": "ArrListPractice\\RemoveAllEvenNo.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\RemoveAllEvenNo.cs",
+              "RelativeToolTip": "ArrListPractice\\RemoveAllEvenNo.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:16:09.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MergeList.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\MergeList.cs",
+              "RelativeDocumentMoniker": "ArrListPractice\\MergeList.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\MergeList.cs",
+              "RelativeToolTip": "ArrListPractice\\MergeList.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T09:06:32.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrListPractice.csproj",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\ArrListPractice.csproj",
+              "RelativeDocumentMoniker": "ArrListPractice\\ArrListPractice.csproj",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\ArrListPractice.csproj",
+              "RelativeToolTip": "ArrListPractice\\ArrListPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-23T09:27:23.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\Program.cs",
+              "RelativeDocumentMoniker": "ArrListPractice\\Program.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\ArrListPractice\\ArrListPractice\\Program.cs",
+              "RelativeToolTip": "ArrListPractice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T09:25:43.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

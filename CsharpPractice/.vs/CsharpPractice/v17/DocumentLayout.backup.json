@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\stringstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\stringstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\csharppractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\csharppractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StringStringBuilder.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\StringStringBuilder.cs",
+              "RelativeDocumentMoniker": "CsharpPractice\\StringStringBuilder.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\StringStringBuilder.cs",
+              "RelativeToolTip": "CsharpPractice\\StringStringBuilder.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T11:12:45.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "First.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\First.cs",
+              "RelativeDocumentMoniker": "CsharpPractice\\First.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\First.cs",
+              "RelativeToolTip": "CsharpPractice\\First.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T12:48:07.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CsharpPractice.csproj",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+              "RelativeDocumentMoniker": "CsharpPractice\\CsharpPractice.csproj",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
+              "RelativeToolTip": "CsharpPractice\\CsharpPractice.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-29T13:01:41.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

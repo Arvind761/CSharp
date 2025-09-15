@@ -1,0 +1,14 @@
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\bin\Debug\net8.0\AllLogicalProgram.exe
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\bin\Debug\net8.0\AllLogicalProgram.deps.json
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\bin\Debug\net8.0\AllLogicalProgram.runtimeconfig.json
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\bin\Debug\net8.0\AllLogicalProgram.dll
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\bin\Debug\net8.0\AllLogicalProgram.pdb
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.GeneratedMSBuildEditorConfig.editorconfig
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.AssemblyInfoInputs.cache
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.AssemblyInfo.cs
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.csproj.CoreCompileInputs.cache
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.dll
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\refint\AllLogicalProgram.dll
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.pdb
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\AllLogicalProgram.genruntimeconfig.cache
+D:\@2025\Nit\CSharp\AllLogicalProgram\AllLogicalProgram\obj\Debug\net8.0\ref\AllLogicalProgram.dll

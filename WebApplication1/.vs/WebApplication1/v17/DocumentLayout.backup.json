@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|d:\\@2025\\nit\\csharp\\webapplication1\\webapplication1\\sendformforquerystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\sendformforquerystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|D:\\@2025\\Nit\\CSharp\\WebApplication1\\webapplication1\\querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\querystring.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|D:\\@2025\\Nit\\CSharp\\WebApplication1\\webapplication1\\jqueryload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\jqueryload.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|D:\\@2025\\Nit\\CSharp\\WebApplication1\\webapplication1\\validationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validationform.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|D:\\@2025\\Nit\\CSharp\\WebApplication1\\webapplication1\\validationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{415166CE-C93A-44FA-9C05-34E2CDB05BB8}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\validationform.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SendFormForQueryString.aspx",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\SendFormForQueryString.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\SendFormForQueryString.aspx",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\SendFormForQueryString.aspx",
+              "RelativeToolTip": "WebApplication1\\SendFormForQueryString.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-31T13:04:50.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "QueryString.aspx",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\QueryString.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\QueryString.aspx",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\QueryString.aspx",
+              "RelativeToolTip": "WebApplication1\\QueryString.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-31T13:03:29.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JqueryLoad.aspx",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\JqueryLoad.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\JqueryLoad.aspx",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\JqueryLoad.aspx",
+              "RelativeToolTip": "WebApplication1\\JqueryLoad.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-31T12:54:14.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ValidationForm.aspx.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\ValidationForm.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ValidationForm.aspx.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\ValidationForm.aspx.cs",
+              "RelativeToolTip": "WebApplication1\\ValidationForm.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T17:43:44.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValidationForm.aspx",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\ValidationForm.aspx",
+              "RelativeDocumentMoniker": "WebApplication1\\ValidationForm.aspx",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\WebApplication1\\WebApplication1\\ValidationForm.aspx",
+              "RelativeToolTip": "WebApplication1\\ValidationForm.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-07-29T17:33:15.525Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\bin\Debug\net8.0-windows\NotePadPersonal.exe
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\bin\Debug\net8.0-windows\NotePadPersonal.deps.json
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\bin\Debug\net8.0-windows\NotePadPersonal.runtimeconfig.json
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\bin\Debug\net8.0-windows\NotePadPersonal.dll
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\bin\Debug\net8.0-windows\NotePadPersonal.pdb
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.Form1.resources
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.csproj.GenerateResource.cache
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.GeneratedMSBuildEditorConfig.editorconfig
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.AssemblyInfoInputs.cache
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.AssemblyInfo.cs
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.csproj.CoreCompileInputs.cache
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.dll
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\refint\NotePadPersonal.dll
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.pdb
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\NotePadPersonal.genruntimeconfig.cache
+D:\@2025\Nit\CSharp\NotePadPersonal\NotePadPersonal\obj\Debug\net8.0-windows\ref\NotePadPersonal.dll
