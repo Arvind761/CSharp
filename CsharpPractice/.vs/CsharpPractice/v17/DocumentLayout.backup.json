@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\testextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\testextensionmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\extensionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\decontructoronlyget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|solutionrelative:csharppractice\\decontructoronlyget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A66FFB8-D7DC-4AC6-963F-B05BA6BFE9CD}|CsharpPractice\\CsharpPractice.csproj|d:\\@2025\\nit\\csharp\\csharppractice\\csharppractice\\csharppractice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,33 +30,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ExtensionMethods.cs",
-              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\ExtensionMethods.cs",
-              "RelativeDocumentMoniker": "CsharpPractice\\ExtensionMethods.cs",
-              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\ExtensionMethods.cs",
-              "RelativeToolTip": "CsharpPractice\\ExtensionMethods.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:51:45.042Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "TestExtensionMethod.cs",
-              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\TestExtensionMethod.cs",
-              "RelativeDocumentMoniker": "CsharpPractice\\TestExtensionMethod.cs",
-              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\TestExtensionMethod.cs",
-              "RelativeToolTip": "CsharpPractice\\TestExtensionMethod.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAUwBIAAAAXAAAAAAAAAA==",
+              "Title": "DecontructorOnlyGet.cs",
+              "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\DecontructorOnlyGet.cs",
+              "RelativeDocumentMoniker": "CsharpPractice\\DecontructorOnlyGet.cs",
+              "ToolTip": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\DecontructorOnlyGet.cs",
+              "RelativeToolTip": "CsharpPractice\\DecontructorOnlyGet.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADMAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T12:47:30.978Z",
+              "WhenOpened": "2025-09-18T12:19:23.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "CsharpPractice.csproj",
               "DocumentMoniker": "D:\\@2025\\Nit\\CSharp\\CsharpPractice\\CsharpPractice\\CsharpPractice.csproj",
               "RelativeDocumentMoniker": "CsharpPractice\\CsharpPractice.csproj",
